@@ -14,7 +14,7 @@ body {
 }
 
 a {
-  color: #5777ba;
+  color: #585a61;
   text-decoration: none;
 }
 
@@ -1217,7 +1217,7 @@ section {
   color: #5777ba;
 }
 
-#footer .footer-top .social-links a {
+#footer .footer-newsletter .social-links a {
   font-size: 18px;
   display: inline-block;
   background: #5777ba;
@@ -1232,7 +1232,7 @@ section {
   transition: 0.3s;
 }
 
-#footer .footer-top .social-links a:hover {
+#footer .footer-newsletter .social-links a:hover {
   background: #27282c;
   color: #fff;
   text-decoration: none;
